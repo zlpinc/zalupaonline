@@ -1,0 +1,224 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\bootstrap\5.2.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\fonts\boxicons.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\fonts\boxicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\fonts\boxicons.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\zalupa.online\ajax\libs\boxicons\2.1.4\fonts\boxicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://files.zalupa.online/fabric-installer.jar
+File Name: C:\Downloaded Web Sites\zalupa.online\fabric-installer.jar
+Content Type: application/java-archive
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\zalupa.online\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v13/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\s\manrope\v13\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v13/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\s\manrope\v13\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v13/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\s\manrope\v13\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v13/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\s\manrope\v13\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v13/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\s\manrope\v13\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993
+File Name: C:\Downloaded Web Sites\zalupa.online\beacon.min.js\vaafb692b2aea4879b33c060e79fe94621666317369993
+Content Type: text/javascript
+
+Uri: https://tlaun.ch/repo/downloads/TL_Installer_legacy.exe
+File Name: C:\Downloaded Web Sites\zalupa.online\repo\downloads\TL_Installer_legacy.exe
+Content Type: application/octet-stream
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VGRQSK1J7M
+File Name: C:\Downloaded Web Sites\zalupa.online\gtag\js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/
+File Name: C:\Downloaded Web Sites\zalupa.online\index.htm
+Content Type: text/html
+
+Uri: https://zalupa.online/assets/css/custom.min.css
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\css\custom.min.css
+Content Type: text/css
+
+Uri: https://zalupa.online/assets/css/libs/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\css\libs\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://zalupa.online/assets/css/loader.min.css
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\css\loader.min.css
+Content Type: text/css
+
+Uri: https://zalupa.online/assets/css/theme.min.css
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://zalupa.online/assets/favicon/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/favicon/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://zalupa.online/assets/favicon/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://zalupa.online/assets/favicon/site.webmanifest
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\favicon\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://zalupa.online/assets/fonts/minecraft-font.ttf
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\fonts\minecraft-font.ttf
+Content Type: application/octet-stream
+
+Uri: https://zalupa.online/assets/images/emoji-background-donate-light.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\emoji-background-donate-light.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/images/emoji-background-donate.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\emoji-background-donate.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/images/emoji/rainbow-flag.png
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\emoji\rainbow-flag.png
+Content Type: image/png
+
+Uri: https://zalupa.online/assets/images/gradient-back.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\gradient-back.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/loading_animation.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\loading_animation.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/logo-dark.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\logo-dark.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/logo.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\logo.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/players_background_x2.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\players_background_x2.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/private-server-hub.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\private-server-hub.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/shopping-cart.svg
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://zalupa.online/assets/images/stone-logo-subtext.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\stone-logo-subtext.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/telegram-icon.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\telegram-icon.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/tokens.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\tokens.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/vova-background-mobile.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\vova-background-mobile.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/vova-background.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\vova-background.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/images/vova-gribnik.webp
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\images\vova-gribnik.webp
+Content Type: image/webp
+
+Uri: https://zalupa.online/assets/js/dark_init.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\dark_init.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/init.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\init.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/jarallax.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/popper.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\popper.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/sentry-bundle.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\sentry-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/smooth-scroll.polyfills.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\smooth-scroll.polyfills.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/libs/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\libs\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://zalupa.online/assets/js/theme.min.js
+File Name: C:\Downloaded Web Sites\zalupa.online\assets\js\theme.min.js
+Content Type: application/javascript
+
